@@ -4,6 +4,8 @@ Projeto feito com intuito de aprender sobre testes unitários automatizados no J
 
 Utilizando Maven para criar o projeto e gerenciamento de dependências, incluindo o JUnit;
 
+Desenvolvido com o padrão de desenvolvimento TDD;
+
 Para cada classe cujo os metódos são interessantes o teste é criada uma classe teste num pacote idêntico em um diretório diferente criado apenas para as classes de teste;
 
 Contém as três formas mais usuáis de fazer testes unitários;
